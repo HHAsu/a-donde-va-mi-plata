@@ -7,6 +7,15 @@ Se busca evidenciar las tendencias de ejecución presupuestaria, tanto en tiempo
 
 El producto final contempla facilidades para seleccionar distintos tipos de visualizaciones, así como también un mecanismo de sugerencia por parte de la ciudadanía de nuevos conjuntos de datos.
 
+Version
+-------
+
+0
+
+ChangeLog
+---------
+Solo lista y permite filtrar por Funcion y Año. La visualización aún no fue agregada  
+
 Quienes?
 --------
   - Rafael Palau - Líder de equipo de Desarrollo
