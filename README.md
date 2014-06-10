@@ -84,7 +84,10 @@ Socios
   - AAM - Santiago González (santiago@chena.com - +595971150600). Disposición de periodistas, editores, realizadores. Difusión en tv, radio y web con los espacios que sean necesarios para visibilizar el proyecto y analizar los datos que surjan desde el mismo. 
   - Canal 13 - Radio Cardinal AM y AAM tv. www.canal13.com.py y www.cardinal.com.py
 
- 
+Screenshots
+-----------
+
+![mocks](mockups/mookup1-01.png)
 
 ***
 Rafael Palau
