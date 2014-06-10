@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>A donde va mi planta</title>
-
+	<title>A donde va mi plata</title>
 	<style type="text/css">
 
 	::selection{ background-color: #E13300; color: white; }
@@ -157,9 +156,12 @@ Participación ciudadana en la valoración de la gestión de las autoridades enc
 Estudiante de Ingeniería Informática.
 Actualmente elaborando Tesis de grado sobre Visualización y Apertura de Datos Públicos
 referentes al proceso de creación de PGN como herramienta de transparencia y toma de decisión informada.</p>
-
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
+  	<img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" />
+  	</a>
 <hr>
 </div>
+
 
 </body>
 </html>
