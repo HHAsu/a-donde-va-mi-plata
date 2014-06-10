@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Welcome to CodeIgniter</title>
+	<title>A donde va mi planta</title>
 
 	<style type="text/css">
 
@@ -67,10 +67,11 @@
 <body>
 
 <div id="container">
+
 <h1>
 <a name="user-content-a-d%C3%B3nde-va-mi-plata---plataformas-de-datos-abiertos-pgnpy" class="anchor" href="#a-d%C3%B3nde-va-mi-plata---plataformas-de-datos-abiertos-pgnpy"><span class="octicon octicon-link"></span></a>¿A dónde va mi plata? - PLATAFORMAS DE DATOS ABIERTOS PGNPY</h1>
 
-<p>Es una herramienta de reporte y visualización de datos abiertos del Presupuesto General de la Nación (PGN). La misma cuenta con un conjunto de datos datos compuesto por los montos de ejecución presupuestaria desde el año 2003 al 2012 recabados del boost. Busca brindar a la ciudadanía un mecanismo sencillo y práctico de comparar los gastos oficiales del estado en distintas áreas claves para el desarrollo del país - salud, educación, gastos legislativos, gastos judiciales, obras, defensa y seguridad - y en distintos años.</p>
+<p>Es una <a href="boostpy/">herramienta</a> de reporte y visualización de datos abiertos del Presupuesto General de la Nación (PGN). La misma cuenta con un conjunto de datos datos compuesto por los montos de ejecución presupuestaria desde el año 2003 al 2012 recabados del boost. Busca brindar a la ciudadanía un mecanismo sencillo y práctico de comparar los gastos oficiales del estado en distintas áreas claves para el desarrollo del país - salud, educación, gastos legislativos, gastos judiciales, obras, defensa y seguridad - y en distintos años.</p>
 
 <p>Se busca evidenciar las tendencias de ejecución presupuestaria, tanto en tiempo como en funciones estatales. Contempla el desarrollo de una interfaz para poder generar reportes por parte de los usuarios finales</p>
 
